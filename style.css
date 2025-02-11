@@ -479,7 +479,12 @@ footer li {
         font-size: 60%;
     }
 
-.timeline li .timeline-image {
+    .mynavbar {
+        background-color: rgba(255, 255, 255, 0.3) ! important;
+        backdrop-filter: none;
+    }
+    
+    .timeline li .timeline-image {
     width: 50px;
     height: 80px;
     }
@@ -489,11 +494,11 @@ footer li {
         transform: translateX(-20);
     }
 
-.timeline li .timeline-panel::before {
+    .timeline li .timeline-panel::before {
     top: 30px;
 
-}
-.timeline li .timeline-panel::after {
+    }
+    .timeline li .timeline-panel::after {
     top: 31px;
 }
 
