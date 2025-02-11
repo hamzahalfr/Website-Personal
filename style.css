@@ -85,7 +85,7 @@ body {
     background-image: url(img/floral.jpeg);
     background-size: cover;
     min-height: 100vh;
-    margin-top: auto -6rem;
+    margin-top: -6rem;
     padding-top: 15rem;
     padding-bottom: 5rem;
 }
